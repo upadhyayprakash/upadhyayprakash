@@ -1,5 +1,5 @@
 <!-- GitHub Profile Cover Image -->
-<img src="./cover_image.jpeg" alt="Profile Cover Image" style="width:100%;"/>
+<img src="./cover_image_github.jpeg" alt="Profile Cover Image" style="width:100%;"/>
 
 <p align="right">
   <img src="https://img.shields.io/github/followers/upadhyayprakash" alt="followers" /> 
@@ -45,10 +45,11 @@ My expertise spans from building e-2-e **MERN** stack applications to creating r
 ### Blogs
 - Build a type-safe and maintainable ReactJS component with TypeScript - [Read](https://upadhyayprakash.github.io/blogs/typesafe-reusable-button-component-in-reactjs)
 
-**Languages and Tools**
+### Languages and Tools
+Following are the technologies I've worked on in my Fullstack journey with small and mid-sized startups, enterprises and consultancies.
 <p align="left">
   <a href="https://linkedin.com/in/upadhyayprakash">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,styledcomponents,redis,postgres,docker,prometheus,aws,postman,vite,kafka&perline=6" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,styledcomponents,postgres,redis,docker,java,spring,prometheus,grafana,aws,postman,vite,kafka&perline=6" alt="react,nodejs,typescript,styledcomponents,postgres,redis,docker,java,spring,prometheus,grafana,aws,postman,vite,kafka" />
   </a>
 </p>
 
