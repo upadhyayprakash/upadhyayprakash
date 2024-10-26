@@ -1,5 +1,5 @@
 <!-- GitHub Profile Cover Image -->
-<img src="./cover_image_github.jpeg" alt="Profile Cover Image" style="width:100%;"/>
+<img src="./cover_image_github.png" alt="Profile Cover Image" style="width:100%;"/>
 
 <p align="right">
   <img src="https://img.shields.io/github/followers/upadhyayprakash" alt="followers" /> 
